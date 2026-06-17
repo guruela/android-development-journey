@@ -14,3 +14,4 @@ Each project has its own README with whatever I felt like noting down at the tim
 ## Projects
 
 - [Business Card](./BusinessCard)
+- [Counter App](./CounterApp)
